@@ -1,7 +1,7 @@
 # Inputs & Outputs
 
 ## Overview
-This lesson is to demonstrate a fundamental programming concept of inputs and outputs using the micro:bit. This includes understanding the basics of an input/output and producing code to represent these fundamentals through checklist task and challenges.
+This lesson is to demonstrate a fundamental programming concept of inputs and outputs using the micro:bit online code editor. This includes understanding the basics of an input/output and producing code to represent these fundamentals through checklist task and challenges.
 
 ## Learning Objective
 The aim of the lesson activity are:
