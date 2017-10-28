@@ -5,7 +5,7 @@ This lesson is to demonstrate a fundamental programming concept of switch statem
 
 ## Learning Objective
 The aim of the lesson activity are:
-- 
+- To
 
 ## Required Parts
 A list of parts/materials that are required with additional optional recommendations for this lesson activity:
