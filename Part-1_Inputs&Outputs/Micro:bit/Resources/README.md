@@ -13,8 +13,6 @@ Lets begin the activity by trying out some input and output blocks:
 
 ## Part 2: The Basics Continued
 
-## The First Challenge
-
-## The Second Challenge
+## The Challenge
 
 ## Think Like a Robot Puzzle
