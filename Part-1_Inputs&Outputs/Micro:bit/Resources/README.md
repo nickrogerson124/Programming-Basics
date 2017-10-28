@@ -1,4 +1,4 @@
-# Activity Worksheet
+# Activity Worksheet: Inputs & Outputs
 
 ## Introduction
 In this project activity you will learn the different input and output blocks you are able to create using the micro:bit

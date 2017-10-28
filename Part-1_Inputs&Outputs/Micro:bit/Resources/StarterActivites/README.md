@@ -1,4 +1,4 @@
-# Start Activites
+# Start Activites: Inputs & Outputs
 
 ## Activity 1
 #### Brief:
