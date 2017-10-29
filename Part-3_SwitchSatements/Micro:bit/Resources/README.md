@@ -34,7 +34,6 @@ You are right if you said nothing happens, why? The **on start** block only runs
     <img src="../Assets/microbit-ifelse-forever.png" width="35%" height="35%" />
 </p>
 Did you notice what happened after you clicked the A button on the micro:bit? An output of your image you created on the **show led** block appears once on the micro:bit.
-<br><br>
 
 ## Part 2: If Then Else What?
 We have learnt creating a simple switch statement block using the **forever** block instead of the **on start** block. Lets try expanding on what we learnt with the switch statements basic and add some more complexity:
