@@ -26,6 +26,7 @@ Lets begin the activity by trying out some simple switch statement blocks:
 <p align="center">
     <img src="../Assets/microbit-ifelse-showled-standman.png" width="35%" height="35%" />
 </p>
+
 You are right if you said nothing happens, why? The **on start** block only runs your code once when it is executed so we need something that will run forever.
 <br><br>
 
@@ -33,12 +34,32 @@ You are right if you said nothing happens, why? The **on start** block only runs
 <p align="center">
     <img src="../Assets/microbit-ifelse-forever.png" width="35%" height="35%" />
 </p>
+
 Did you notice what happened after you clicked the A button on the micro:bit? An output of your image you created on the **show led** block appears once on the micro:bit.
 
 ## Part 2: If Then Else What?
-We have learnt creating a simple switch statement block using the **forever** block instead of the **on start** block. Lets try expanding on what we learnt with the switch statements basic and add some more complexity:
+We have learnt creating a simple switch statement block using the **forever** block instead of the **on start** block. Lets try expanding on what we learnt with the switch statements basic and add some more complexity to our code:
 
-- [ ] todo
+- [ ] Click on the settings cog button in the **if else** block.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-settings.png" width="35%" height="35%" />
+</p>
+
+- [ ] Drag the **else** block and place it under the **if** block within the pop-up.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-settings-expanded.png" width="35%" height="35%" />
+</p>
+
+Did you notice what happened? It has expanded your **if then** block to add an esle part, you have created a cross road. If button A is pressed do one thing, if it is not pressed to the other hence the keyword else.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-settings-new.png" width="35%" height="35%" />
+</p>
+<br><br>
+
+- [ ] Lets add a new **show leds** block and drag it in the **if else** block, you should now have two **show leds** blocks.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-settings-repeated.png" width="35%" height="35%" />
+</p>
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
 
