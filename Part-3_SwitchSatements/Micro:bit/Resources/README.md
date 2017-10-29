@@ -67,7 +67,7 @@ Test out your code and see what the output is, the standing person appears now i
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
 
-## Part 4: The Basics Continued
+## Part 4: An If Then Else within an If Then Else
 
 ## The Challenge
 Try out this challenge exercise with less help, by
