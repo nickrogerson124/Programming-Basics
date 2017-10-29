@@ -5,7 +5,13 @@ This lesson is to demonstrate a fundamental programming concept of switch statem
 
 ## Learning Objective
 The aim of the lesson activity are:
-- To
+- To learn the definition of a switch statement
+- To learn the difference between the on start and forever function blocks
+- To learn and understand how to use a switch statement using the online micro:bit editor
+- To lean and undersand what a condition is and how to use it with switch statements
+- To learn how to use switch statements with different inputs to produce different outputs
+- To learn how to extend switch statements to add multiple different conditions to create multiple different outputs
+- To understand how switch statements work when extending multiple conditions
 
 ## Required Parts
 A list of parts/materials that are required with additional optional recommendations for this lesson activity:
