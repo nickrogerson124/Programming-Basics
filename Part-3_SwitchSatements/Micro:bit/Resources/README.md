@@ -26,8 +26,8 @@ Lets begin the activity by trying out some simple switch statement blocks:
 <p align="center">
     <img src="../Assets/microbit-ifelse-showled-standman.png" width="35%" height="35%" />
 </p>
-You are right if you said nothing happens, why? The **on start** block only runs your code once when it is executed so we need something that will run foreve.
-
+You are right if you said nothing happens, why? The **on start** block only runs your code once when it is executed so we need something that will run forever.
+\s
 - [ ] In the block meny click the **basic menu**, drag the **forever** block and drag the **if else** placing it under the **forever** block. Try again and click the A button on the microbit.
 <p align="center">
     <img src="../Assets/microbit-ifelse-forever.png" width="35%" height="35%" />
