@@ -22,19 +22,28 @@ Lets begin the activity by trying out some simple switch statement blocks:
     <img src="../Assets/microbit-ifelse-empty.png" width="35%" height="35%" />
 </p>
 
-- [ ] In the block menu click the **basic menu**, drag the **show led** block and place it within the **if then** block with your designed image. Now test out the output by clicking the A button on the microbit and see what happens?
+- [ ] In the block menu click the **basic menu**, drag the **show led** block and place it within the **if then** block with your designed image. Now test out the output by clicking the A button on the micro:bit and see what happens?
 <p align="center">
     <img src="../Assets/microbit-ifelse-showled-standman.png" width="35%" height="35%" />
 </p>
 You are right if you said nothing happens, why? The **on start** block only runs your code once when it is executed so we need something that will run forever.
 <br><br>
 
-- [ ] In the block meny click the **basic menu**, drag the **forever** block and drag the **if else** placing it under the **forever** block. Try again and click the A button on the microbit.
+- [ ] In the block menu click the **basic menu**, drag the **forever** block and drag the **if else** placing it under the **forever** block. Try again and click the A button on the micro:bit.
 <p align="center">
     <img src="../Assets/microbit-ifelse-forever.png" width="35%" height="35%" />
 </p>
+Did you notice what happened after you clicked the A button on the micro:bit? An output of your image you created on the **show led** block appears once on the micro:bit.
+<br><br>
 
-## Part 2: The Basics Continued
+## Part 2: If Then Else What?
+We have learnt creating a simple switch statement block using the **forever** block instead of the **on start** block. Lets try expanding on what we learnt with the switch statements basic and add some more complexity:
+
+- [ ] todo
+
+## Part 3: If Then Else Then Else Then Else Then... again?
+
+## Part 4: The Basics Continued
 
 ## The Challenge
 Try out this challenge exercise with less help, by
