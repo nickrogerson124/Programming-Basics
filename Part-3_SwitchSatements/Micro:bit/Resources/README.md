@@ -28,7 +28,7 @@ Lets begin the activity by trying out some simple switch statement blocks:
 </p>
 
 You are right if you said nothing happens, why? The **on start** block only runs your code once when it is executed so we need something that will run forever.
-<br><br>
+<br>
 
 - [ ] In the block menu click the **basic menu**, drag the **forever** block and drag the **if else** placing it under the **forever** block. Try again and click the A button on the micro:bit.
 <p align="center">
