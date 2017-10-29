@@ -15,7 +15,7 @@ Lets begin the activity by trying out some simple switch statement blocks:
 
 - [ ] In the block meny click the **input menu**, drag the **button A is pressed** field and place it next to the if holder.  
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-ifelse-empty.png" width="50%" height="50%" />
+    <img style="text-align:center" src="../Assets/microbit-ifelse-empty.png" width="35%" height="35%" />
 </p>
 
 ## Part 2: The Basics Continued
