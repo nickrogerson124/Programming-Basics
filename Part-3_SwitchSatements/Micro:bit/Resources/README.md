@@ -52,13 +52,13 @@ We have learnt creating a simple switch statement block using the **forever** bl
 
 Did you notice what happened? It has expanded your **if then** block to add an esle part, you have created a cross road. If button A is pressed do one thing, if it is not pressed to the other hence the keyword else.
 <p align="center">
-    <img src="../Assets/microbit-ifelse-settings-new.png" width="35%" height="35%" />
+    <img src="../Assets/microbit-ifelse-new.png" width="35%" height="35%" />
 </p>
 <br><br>
 
 - [ ] Lets add a new **show leds** block and drag it in the **if else** block, you should now have two **show leds** blocks.
 <p align="center">
-    <img src="../Assets/microbit-ifelse-settings-repeated.png" width="35%" height="35%" />
+    <img src="../Assets/microbit-ifelse-repeated.png" width="35%" height="35%" />
 </p>
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
