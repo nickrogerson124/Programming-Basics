@@ -8,13 +8,13 @@ Lets begin the activity by trying out some simple switch statement blocks:
 
 - [ ] Open up a browser and go to **[https://makecode.microbit.org](https://makecode.microbit.org)**.
 - [ ] Start a new empty project by clicking on the **projects menu** and select the **New Project** menu button in the pop-up screen, this only needs to be done if there is still old code on the sandbox from your previous work.
-<div style="text-align:center"><img src ="../Assets/microbit-mainpage.png" /></div>
+<img style="text-align:center" src="../Assets/microbit-mainpage.png" />
 
 - [ ] In the block menu click the **logic menu**, drag the **if then** block and place it within the **on start** block.
-<div style="text-align:center"><img src ="../Assets/microbit-ifelse.png" /></div>
+<img style="text-align:center" src="../Assets/microbit-ifelse.png" />
 
 - [ ] In the block meny click the **input menu**, drag the **button A is pressed** field and place it next to the if holder.  
-<img style="text-align:center" src="../Assets/microbit-ifelse-empty.png" width="50%" height="50%" />
+<img style="text-align:center" src="../Assets/microbit-ifelse-empty.png" width="25%" height="25%" />
 
 ## Part 2: The Basics Continued
 
