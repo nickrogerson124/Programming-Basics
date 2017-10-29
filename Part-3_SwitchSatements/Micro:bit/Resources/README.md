@@ -54,12 +54,13 @@ Did you notice what happened? It has expanded your **if then** block to add an e
 <p align="center">
     <img src="../Assets/microbit-ifelse-new.png" width="35%" height="35%" />
 </p>
-<br><br>
 
 - [ ] Lets add a new **show leds** block and drag it in the **if else** block, you should now have two **show leds** blocks.
 <p align="center">
     <img src="../Assets/microbit-ifelse-repeated.png" width="35%" height="35%" />
 </p>
+
+Test out your code and see what the output is, the standing person appears now in the micro:bit with no inputs and when you hold the A button on the micro:bit the standing person changes to having their hands in the air.
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
 
