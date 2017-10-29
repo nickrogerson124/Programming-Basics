@@ -61,6 +61,9 @@ Did you notice what happened? It has expanded your **if then** block to add an e
 </p>
 
 Test out your code and see what the output is, the standing person appears now in the micro:bit with no inputs and when you hold the A button on the micro:bit the standing person changes to having their hands in the air.
+<br><br>
+
+- [ ] todo
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
 
