@@ -11,10 +11,12 @@ Lets begin the activity by trying out some simple switch statement blocks:
 <img style="text-align:center" src="../Assets/microbit-mainpage.png" />
 
 - [ ] In the block menu click the **logic menu**, drag the **if then** block and place it within the **on start** block.
-<img style="text-align:center" src="../Assets/microbit-ifelse.png" />
+<img  src="../Assets/microbit-ifelse.png" />
 
 - [ ] In the block meny click the **input menu**, drag the **button A is pressed** field and place it next to the if holder.  
-<img src="../Assets/microbit-ifelse-empty.png" align="center" width="50%" height="50%" />
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-ifelse-empty.png" width="50%" height="50%" />
+</p>
 
 ## Part 2: The Basics Continued
 
