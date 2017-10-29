@@ -17,10 +17,16 @@ Lets begin the activity by trying out some simple switch statement blocks:
     <img  src="../Assets/microbit-ifelse.png" />
 </p>
 
-- [ ] In the block meny click the **input menu**, drag the **button A is pressed** field and place it next to the if holder.  
+- [ ] In the block menu click the **input menu**, drag the **button A is pressed** field block and place it next to the if holder.  
 <p align="center">
     <img src="../Assets/microbit-ifelse-empty.png" width="35%" height="35%" />
 </p>
+
+- [ ] In the block menu click the **basic menu**, drag the **show led** block and place and place it within the **if then** block and design an image. Now test out the output by clicking on the A button on the microbit and what happens?
+<p align="center">
+    <img src="../Assets/microbit-ifelse-showled-standman.png" width="35%" height="35%" />
+</p>
+
 
 ## Part 2: The Basics Continued
 
