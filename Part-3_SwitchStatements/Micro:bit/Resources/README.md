@@ -50,7 +50,7 @@ We have learnt creating a simple switch statement block using the **forever** bl
     <img src="../Assets/microbit-ifelse-settings-expanded.png" width="35%" height="35%" />
 </p>
 
-Did you notice what happened? It has expanded your **if then** block to add an esle part, you have created a cross road. If button A is pressed do one thing, if it is not pressed to the other hence the keyword else.
+Did you notice what happened? It has expanded your **if then** block to add an esle part, you have created a cross road. If button A is pressed do one thing, if it is not pressed - do the other hence the keyword else.
 <p align="center">
     <img src="../Assets/microbit-ifelse-new.png" width="35%" height="35%" />
 </p>
@@ -60,10 +60,22 @@ Did you notice what happened? It has expanded your **if then** block to add an e
     <img src="../Assets/microbit-ifelse-repeated.png" width="35%" height="35%" />
 </p>
 
-Test out your code and see what the output is, the standing person appears now in the micro:bit with no inputs and when you hold the A button on the micro:bit the standing person changes to having their hands in the air.
+Test out your code and see what the output is, the standing person appears now in the micro:bit with no inputs and when you hold the A button on the micro:bit the standing person changes to having their hands up in the air.
 <br>
 
-- [ ] todo
+- [ ] Click on the settings cog wheel and remove the **else** block.
+<p align="center">
+    <img src="../Assets/microbit-if.png" width="35%" height="35%" />
+</p>
+
+Test out your code on the micro:bit, what do you notice?
+<br>
+
+<p align="center">
+    <img src="../Assets/microbit-if-menuless.png" width="35%" height="35%" />
+</p>
+
+When you press the A button, the standing person appears with hands up in the air but does not return back to its original position. Why? Because you removed the else block, which means only when the A button is pressed you will see the action and it will not return back to its original position.
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
 
