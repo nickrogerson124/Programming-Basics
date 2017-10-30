@@ -89,11 +89,28 @@ We have learnt to create a switch statement block using a if & else statement wi
     <img src="../Assets/microbit-ifelse-ABbutton.png" width="35%" height="35%" />
 </p>
 
-- [ ] Add a new **show leds** block to your new else if block. Test out your code on the micro:bit, what do you notice?
+- [ ] Add a new **show leds** block to your new else if block. Test out your code on the micro:bit by holding the A button and then the B button, what do you notice?
 <p align="center">
     <img src="../Assets/microbit-if-ifelse-else.png" width="35%" height="35%" />
 </p>
 
+We have created three different ouputs from three different inputs: if no button is pressed standing person, if the A button is pressed hands up in the air and if the B button is pressed hadns on their side.
+<br>
+
+- [ ] Lets try expand the switch statement block by adding another **else if** block within the switch statement, and dragging the **button A+B is pressed** to the connected with a new **show led** block. Lets test this out and what do we notice when you hold both the A+B button?
+<p align="center">
+    <img src="../Assets/microbit-if-multipleinputs.png" width="35%" height="35%" />
+</p>
+
+Did you notice only the output for the A button is presented when both A+B buttons are pressed, can you try and guess why?
+
+Think of the switch statement as a waterfall falling from top to bottom, if an input meets the condition it will run the output from that block. In this case even though both **A+B buttons** are pressed, it will stop on the frist condition as the computer understands that the **A button** is pressed, even though the **B button** is aslo. How do we try and resolve this?
+<br>
+
+- [ ] Drag the **button A+B is pressed** block with the ouput and set it as the first condition of the switch statement.
+<p align="center">
+    <img src="../Assets/microbit-if-multipleinputs-correct.png" width="35%" height="35%" />
+</p>
 
 ## Part 4: An If Then Else within an If Then Else
 
