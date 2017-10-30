@@ -68,8 +68,7 @@ Test out your code and see what the output is, the standing person appears now i
     <img src="../Assets/microbit-if.png" width="35%" height="35%" />
 </p>
 
-Test out your code on the micro:bit, what do you notice?
-<br>
+- [ ] Test out your code on the micro:bit, what do you notice?
 
 <p align="center">
     <img src="../Assets/microbit-if-menuless.png" width="35%" height="35%" />
@@ -78,6 +77,23 @@ Test out your code on the micro:bit, what do you notice?
 When you press the A button, the standing person appears with hands up in the air but does not return back to its original position. Why? Because you removed the else block, which means only when the A button is pressed you will see the action and it will not return back to its original position.
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
+We have learnt to create a switch statement block using a if & else statement with two show leds output blocks with a simple input condition. Lets try and expand what we learnt and create a switch statements with multiple different conditions:
+
+- [ ] Click on the settings cog button in the **if else** block and add another **else if** block to add a new condition.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-else.png" width="35%" height="35%" />
+</p>
+
+- [ ] In the block menu click the **input menu**, drag the **button A is pressed** block and place it in the second else if connector.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-ABbutton.png" width="35%" height="35%" />
+</p>
+
+- [ ] Add a new **show leds** block to your new else if block. Test out your code on the micro:bit, what do you notice?
+<p align="center">
+    <img src="../Assets/microbit-if-ifelse-else.png" width="35%" height="35%" />
+</p>
+
 
 ## Part 4: An If Then Else within an If Then Else
 
