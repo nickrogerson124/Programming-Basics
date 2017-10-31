@@ -77,7 +77,7 @@ Test out your code and see what the output is, the standing person appears now i
 When you press the A button, the standing person appears with hands up in the air but does not return back to its original position. Why? Because you removed the else block, which means only when the A button is pressed you will see the action and it will not return back to its original position.
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
-We have learnt to create a switch statement block using a if & else statement with two show leds output blocks with a simple input condition. Lets try and expand what we learnt and create a switch statements with multiple different conditions:
+We have learnt to create a switch statement block using an if & else statement with two show leds output blocks with a simple input condition. Lets try and expand what we learnt and create a switch statements with multiple different conditions:
 
 - [ ] Click on the settings cog button in the **if else** block and add another **else if** block to add a new condition.
 <p align="center">
@@ -115,6 +115,9 @@ Think of the switch statement as a waterfall falling from top to bottom, if an i
 This time the ouput works when you hold the **A+B Button** on the micro:bit to produce a stick person sitting on the ground, similar to when you press the **A Button** and **B Button** the respected outputs appear on the micro:bit.
 
 ## Part 4: An If Then Else within an If Then Else
+We tried to create multiple different switch statements with different inputs to produce different ouputs. Lets try to understand how we can add a switch statement within a switch statement:
+
+- [ ]
 
 ## The Challenge
 Try out this challenge exercise with less help, by
