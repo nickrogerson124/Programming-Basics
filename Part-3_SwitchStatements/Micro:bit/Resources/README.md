@@ -122,11 +122,25 @@ We tried to create multiple different switch statements with different inputs to
     <img src="../Assets/microbit-if-ception.png" width="35%" height="35%" />
 </p>
 
-- [ ] In the block meny click the **input menu**, drag two new **button A is pressed** blocks and place it in the **if else** block connectors
+- [ ] In the block menu click the **input menu**, drag two new **button A is pressed** and **button B is pressed** blocks and place it in the **if else** block connectors.
 <p align="center">
     <img src="../Assets/microbit-if-if-buttons.png" width="35%" height="35%" />
 </p>
 
+- [ ] In the block menu click the **basic menu**, drag two new **show leds** block and place it each under the seperate **if else** blocks.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-if-leds.png" width="35%" height="35%" />
+</p>
+
+Did you notice when you hold the A+B button, the standing person lifts up their arms up and drops it down horizontally. This is because we have added two blocks within the **if else** block, so it executes one after the other.
+<br>
+
+- [ ] From what you have learnt, expand the **if else** block to add the else condition with a new **show leds** block. Change the actions of the **show leds** block and test out your new code by holding the **A button** and then the **A+B Button**.
+<p align="center">
+    <img src="../Assets/microbit-ifelse-ABbutton-extended.png" width="35%" height="35%" />
+</p>
+
+While testing what did you notice? When you hold the **A+B Button** you have simplified building the animation of the jumping stick person with only 6 blocks. 
 
 ## The Challenge
 Try out this challenge exercise with less help, by
