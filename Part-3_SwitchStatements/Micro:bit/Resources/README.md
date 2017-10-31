@@ -115,9 +115,18 @@ Think of the switch statement as a waterfall falling from top to bottom, if an i
 This time the ouput works when you hold the **A+B Button** on the micro:bit to produce a stick person sitting on the ground, similar to when you press the **A Button** and **B Button** the respected outputs appear on the micro:bit.
 
 ## Part 4: An If Then Else within an If Then Else
-We tried to create multiple different switch statements with different inputs to produce different ouputs. Lets try to understand how we can add a switch statement within a switch statement:
+We tried to create multiple different switch statements with different inputs to produce different ouputs called conditions. Lets try to understand how we can add a switch statement within a switch statement:
 
-- [ ]
+- [ ] In the block menu click the **logic menu** and drag two **if then** blocks within the **forever** block.
+<p align="center">
+    <img src="../Assets/microbit-if-ception-correct.png" width="35%" height="35%" />
+</p>
+
+- [ ] In the block meny click the **input menu**, drag two new **button A is pressed** blocks and place it in the **if else** block connectors
+<p align="center">
+    <img src="../Assets/microbit-if-if-buttons.png" width="35%" height="35%" />
+</p>
+
 
 ## The Challenge
 Try out this challenge exercise with less help, by
