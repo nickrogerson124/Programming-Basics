@@ -119,7 +119,7 @@ We tried to create multiple different switch statements with different inputs to
 
 - [ ] In the block menu click the **logic menu** and drag two **if then** blocks within the **forever** block.
 <p align="center">
-    <img src="../Assets/microbit-if-ception-correct.png" width="35%" height="35%" />
+    <img src="../Assets/microbit-if-ception.png" width="35%" height="35%" />
 </p>
 
 - [ ] In the block meny click the **input menu**, drag two new **button A is pressed** blocks and place it in the **if else** block connectors
