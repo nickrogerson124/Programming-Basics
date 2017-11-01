@@ -143,8 +143,27 @@ Did you notice when you hold the A+B button, the standing person lifts up their 
 While testing what did you notice? When you hold the **A+B Button** you have simplified building the animation of the jumping stick person with only 6 blocks. 
 
 ## The Challenge
-Try out this challenge exercise with less help, by
+Try out this challenge exercise with less help, by creating a bouncing ball when:
+* When no inputs are pressed the ball is still on the ground,
+* You press the *A Button* input to make the ball bounce on the led screen forever,
+* You press the *B Button* input to make the ball roll off the led screen once,
+* You press the *A+B Button* input to make the ball to hit all four sides of the led square,
+* On *shake* input block, create a ouput string 
 
+- [ ] Start a new empty project under the projects button.
+- [ ] Use a **forever** block to start your code.
+- [ ] Use a **if else** block to create your first condition, if no condition happens the ball is still on the ground.
+<p align="center">
+    <img src="../Assets/microbit-led-ball.png" width="35%" height="35%" />
+</p>
 
-## Think Like a Robot Puzzle
-Can you think like a robot to solve the puzzle. 
+- [ ] Create a new input condition with the **Button A is pressed** block to animate the ball bouncing without stopping.
+- [ ] Create a new input condition with the **Button B is pressed** block to animate the ball rolling off the led screen. HINT: Remeber using the **pause (ms)** block in the **Basic Block** menu so the ball does not appear on the screen again?
+- [ ] Create a new input condition with the **Button A+B is pressed** block to animate the ball hitting all 4 sides of the micro:bit led square.
+- [ ] Create a seperate piece of code away from your condition statement for the **on share** block and add a **Show String** block with the message "I am a Bouncing Ball".
+
+Time to test the code out:
+- [ ] When I press the **A Button** input block, does the ball bounce up and down forever?
+- [ ] When I press the **B Button** input block, does the ball roll away once?
+- [ ] When I press the **A+B Button** input block, does the ball hit all four sides of the micro:bit led square?
+- [ ] When I use the **shake** input block, do I get a message back?
