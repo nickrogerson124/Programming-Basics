@@ -21,6 +21,7 @@ Depending on the class size, we usually recommend to break the class in to group
 The main project activity for the pupil to learn, code and understand the hands-on basics of programming [condition statements](../).
 
 ## Plenary
+
 Questions to ask at the end of the session as a collective group of pupils or as individuals:
 * What does a forever block do?
     * It makes sure the code runs forever and not just once.
