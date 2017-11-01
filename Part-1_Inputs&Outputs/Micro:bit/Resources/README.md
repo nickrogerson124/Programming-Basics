@@ -14,5 +14,7 @@ Lets begin the activity by trying out some input and output blocks:
 ## Part 2: The Basics Continued
 
 ## The Challenge
+Try out this challenge exercise with less help, by
 
 ## Think Like a Robot Puzzle
+Can you think like a robot to solve the puzzle. 
