@@ -152,7 +152,8 @@ Try out this challenge exercise with less help, by creating a bouncing ball when
 
 - [ ] Start a new empty project under the projects button.
 - [ ] Use a **forever** block to start your code.
-- [ ] Use a **if else** block to create your first condition, if there is no input the ball is still on the ground.
+- [ ] Use a single **if else** block to store all your future conditions.
+- [ ] For the no input condition, i.e. the else output - **show led** block with a ball resting on the ground.
 <p align="center">
     <img src="../Assets/microbit-led-ball.png" width="35%" height="35%" />
 </p>
@@ -160,7 +161,7 @@ Try out this challenge exercise with less help, by creating a bouncing ball when
 - [ ] Create a new input condition with the **Button A is pressed** block to animate the ball bouncing without stopping.
 - [ ] Create a new input condition with the **Button B is pressed** block to animate the ball rolling off the led screen. HINT: Remeber using the **pause (ms)** block in the **Basic Block** menu so the ball does not appear on the screen again?
 - [ ] Create a new input condition with the **Button A+B is pressed** block to animate the ball hitting all 4 sides of the micro:bit led square.
-- [ ] Create a seperate piece of code away from your conditional statement for the **on share** block and add a **Show String** block with the message "I am a Bouncing Ball".
+- [ ] Create a seperate piece of code away from your conditional statement for the **on share** block and add a **Show String** block with the message "I am a bouncing ball".
 
 Time to test the code out:
 - [ ] When I press the **A Button** input block, does the ball bounce up and down forever?
