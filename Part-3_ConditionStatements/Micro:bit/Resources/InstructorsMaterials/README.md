@@ -9,7 +9,7 @@ We usually recommend sessions of 45 minutes broken down into:
 However longer sessions are possible and usually that is extending the Student Acitvity section from 30 minutes to 45 minutes. However it is solely up to you on a case by case basis how you see fit in running the sessions. All the information presented are a guidance and are very designed with flexibility in mind.
 
 ## Overview
-The main concept for this session is to understand the concept of condition statements using the micro:bit online editor through the class activity worksheet.
+The main concept for this session is to understand the concept of conditional statements using the micro:bit online editor through the class activity worksheet.
 
 ## Starter Activity
 Depending on the class size, we usually recommend to break the class in to groups of 5 to 7 pupils. This provides the opportunity for each pupil to have a chance to understand the key concepts visually within a smaller group environment. Multiple [starter activities](StarterActivites) can be chosen depending on your preference, these are used as a guide for inspiration and to help visualise the concepts.
@@ -18,15 +18,15 @@ Depending on the class size, we usually recommend to break the class in to group
 
 
 ## Main Activity
-The main project activity for the pupil to learn, code and understand the hands-on basics of programming [condition statements](../).
+The main project activity for the pupil to learn, code and understand the hands-on basics of programming [conditional statements](../).
 
 ## Plenary
 Questions to ask at the end of the session as a collective group of pupils or as individuals:
 * What does a forever block do?
     * It makes sure the code runs forever and not just once.
 * What is a Condition Statement
-    * A condition statement is an if statement
-    * A condition statement provides you with a choice to go down one path or the other
-    * A condition statement can have multiple conditions for multiple function outputs 
+    * A conditional statement is an if statement
+    * A conditional statement provides you with a choice to go down one path or the other
+    * A conditional statement can have multiple conditions for multiple function outputs 
 * What is a Condition?
     * A condition is a criteria/rule that the code must meet for the function to be carried out.

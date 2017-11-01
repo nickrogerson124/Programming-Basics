@@ -1,10 +1,10 @@
-# Activity Worksheet: Condition Statements
+# Activity Worksheet: Conditional Statements
 
 ## Introduction
-In this project activity you will learn to create condition statements and create logical decisions with your code to produce different outputs dependant on the inputs pushed through the micro:bit. This will build upon your previous skills you have learnt from the Inputs & Ouputs and Variables project activities.
+In this project activity you will learn to create conditional statements and create logical decisions with your code to produce different outputs dependant on the inputs pushed through the micro:bit. This will build upon your previous skills you have learnt from the Inputs & Ouputs and Variables project activities.
 
 ## Part 1: Condition Statement Basics
-Lets begin the activity by trying out some simple condition statement blocks:
+Lets begin the activity by trying out some simple conditional statement blocks:
 
 - [ ] Open up a browser and go to **[https://makecode.microbit.org](https://makecode.microbit.org)**.
 - [ ] Start a new empty project by clicking on the **projects menu** and select the **New Project** menu button in the pop-up screen, this only needs to be done if there is still old code on the sandbox from your previous work.
@@ -38,7 +38,7 @@ You are right if you said nothing happens, why? The **on start** block only runs
 Did you notice what happened after you clicked the A button on the micro:bit? An output of your image you created on the **show led** block appears once on the micro:bit.
 
 ## Part 2: If Then Else What?
-We have learnt creating a simple condition statement block using the **forever** block instead of the **on start** block. Lets try expanding on what we learnt with the condition statements basic and add some more complexity to our code:
+We have learnt creating a simple conditional statement block using the **forever** block instead of the **on start** block. Lets try expanding on what we learnt with the conditional statements basic and add some more complexity to our code:
 
 - [ ] Click on the settings cog button in the **if else** block.
 <p align="center">
@@ -77,7 +77,7 @@ Test out your code and see what the output is, the standing person appears now i
 When you press the A button, the standing person appears with hands up in the air but does not return back to its original position. Why? Because you removed the else block, which means only when the A button is pressed you will see the action and it will not return back to its original position.
 
 ## Part 3: If Then Else Then Else Then Else Then... again?
-We have learnt to create a condition statement block using an if & else statement with two show leds output blocks with a simple input condition. Lets try and expand what we learnt and create a condition statements with multiple different conditions:
+We have learnt to create a conditional statement block using an if & else statement with two show leds output blocks with a simple input condition. Lets try and expand what we learnt and create a conditional statements with multiple different conditions:
 
 - [ ] Click on the settings cog button in the **if else** block and add another **else if** block to add a new condition.
 <p align="center">
@@ -97,17 +97,17 @@ We have learnt to create a condition statement block using an if & else statemen
 We have created three different ouputs from three different inputs: if no button is pressed standing person, if the A button is pressed hands up in the air and if the B button is pressed hadns on their side.
 <br>
 
-- [ ] Lets try expand the condition statement block by adding another **else if** block within the condition statement, and dragging the **button A+B is pressed** to the connected with a new **show led** block. Lets test this out and what do we notice when you hold both the A+B button?
+- [ ] Lets try expand the conditional statement block by adding another **else if** block within the conditional statement, and dragging the **button A+B is pressed** to the connected with a new **show led** block. Lets test this out and what do we notice when you hold both the A+B button?
 <p align="center">
     <img src="../Assets/microbit-if-multipleinputs.png" width="35%" height="35%" />
 </p>
 
 Did you notice only the output for the A button is presented when both A+B buttons are pressed, can you try and guess why?
 
-Think of the condition statement as a waterfall falling from top to bottom, if an input meets the condition it will run the output from that block. In this case even though both **A+B buttons** are pressed, it will stop on the frist condition as the computer understands that the **A button** is pressed, even though the **B button** is aslo. How do we try and resolve this?
+Think of the conditional statement as a waterfall falling from top to bottom, if an input meets the condition it will run the output from that block. In this case even though both **A+B buttons** are pressed, it will stop on the frist condition as the computer understands that the **A button** is pressed, even though the **B button** is aslo. How do we try and resolve this?
 <br>
 
-- [ ] Drag the **button A+B is pressed** block with the ouput block and set it as the first condition of the condition statement. Retest your new code and what is the result?
+- [ ] Drag the **button A+B is pressed** block with the ouput block and set it as the first condition of the conditional statement. Retest your new code and what is the result?
 <p align="center">
     <img src="../Assets/microbit-if-multipleinputs-correct.png" width="35%" height="35%" />
 </p>
@@ -115,7 +115,7 @@ Think of the condition statement as a waterfall falling from top to bottom, if a
 This time the ouput works when you hold the **A+B Button** on the micro:bit to produce a stick person sitting on the ground, similar to when you press the **A Button** and **B Button** the respected outputs appear on the micro:bit.
 
 ## Part 4: An If Then Else within an If Then Else
-We tried to create multiple different condition statements with different inputs to produce different ouputs called conditions. Lets try to understand how we can add a condition statement within a condition statement:
+We tried to create multiple different conditional statements with different inputs to produce different ouputs called conditions. Lets try to understand how we can add a conditional statement within a conditional statement:
 
 - [ ] In the block menu click the **logic menu** and drag two **if then** blocks within the **forever** block.
 <p align="center">
@@ -160,7 +160,7 @@ Try out this challenge exercise with less help, by creating a bouncing ball when
 - [ ] Create a new input condition with the **Button A is pressed** block to animate the ball bouncing without stopping.
 - [ ] Create a new input condition with the **Button B is pressed** block to animate the ball rolling off the led screen. HINT: Remeber using the **pause (ms)** block in the **Basic Block** menu so the ball does not appear on the screen again?
 - [ ] Create a new input condition with the **Button A+B is pressed** block to animate the ball hitting all 4 sides of the micro:bit led square.
-- [ ] Create a seperate piece of code away from your condition statement for the **on share** block and add a **Show String** block with the message "I am a Bouncing Ball".
+- [ ] Create a seperate piece of code away from your conditional statement for the **on share** block and add a **Show String** block with the message "I am a Bouncing Ball".
 
 Time to test the code out:
 - [ ] When I press the **A Button** input block, does the ball bounce up and down forever?
