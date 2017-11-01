@@ -152,7 +152,7 @@ Try out this challenge exercise with less help, by creating a bouncing ball when
 
 - [ ] Start a new empty project under the projects button.
 - [ ] Use a **forever** block to start your code.
-- [ ] Use a **if else** block to create your first condition, if no condition happens the ball is still on the ground.
+- [ ] Use a **if else** block to create your first condition, if there is no input the ball is still on the ground.
 <p align="center">
     <img src="../Assets/microbit-led-ball.png" width="35%" height="35%" />
 </p>
