@@ -14,9 +14,6 @@ The main concept for this session is to understand the concept of loops using th
 ## Starter Activity
 Depending on the class size, we usually recommend to break the class in to groups of 5 to 7 pupils. This provides the opportunity for each pupil to have a chance to understand the key concepts visually within a smaller group environment. Multiple [starter activities](StarterActivites) can be chosen depending on your preference, these are used as a guide for inspiration and to help visualise the concepts.
 
-## Presentation
-
-
 ## Main Activity
 The main project activity for the pupil to learn, code and understand the hands-on basics of programming [loops](../). We usually recommend to break up the pupils into groups of 2 to 3 to aid in collaboration and knowledge sharing between pupils however these lesson plans can also be completed on their own.
 
