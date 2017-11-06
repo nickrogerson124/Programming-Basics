@@ -14,43 +14,43 @@ Lets begin the activity by trying out some simple conditional statement blocks:
 
 - [ ] In the block menu click the **loops menu**, drag the **repeat** block and place it within the **on start** block.
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-1.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-1.png" width="20%" height="20%" />
 </p>
 
 - [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it within the **repeat** block and draw out a stick person standing up.
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-2.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-2.png" width="20%" height="20%" />
 </p>
 
 - [ ] In the block menu click the **basic menu**, drag another the **show leds** block and place it within the **repeat** block and draw out a stick person jumping. What did you notice?
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-3.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-3.png" width="20%" height="20%" />
 </p>
 
 The stick person jumped up and down four times because the **repeat** block repeats 4 times. 
 
 - [ ] Change the number 4 in the **repeat** block to a 6, what do you notice?
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-4.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-4.png" width="20%" height="20%" />
 </p>
 
 The stick person jumped up and down 6 times.
 
 - [ ] In the block menu click the **math menu**, drag the **0 + 0** block and place on the repeat block, change your math block to **2 + 2**. We can add two numbers together using the **maths block** to create an output using additions, subtractions, multiplication and division.
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-5.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-5.png" width="20%" height="20%" />
 </p>
 
 - [ ] Delete the **2 + 2** block and add a variable from in the blocks menu click the **variables menu** , drag the **set item to 0** block and place it under the **on start** block.
 
 - [ ] Change the **set item to 0** variable name to **index** and change the number to 10.
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-6.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-6.png" width="20%" height="20%" />
 </p>
 
 - [ ] In the block menu click the **variable menu**, drag the **index** variable and place it in the repeat block. We have now created a variable that can be used in the **repeat** block loop.
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-7.png" width="35%" height="35%" />
+    <img style="text-align:center" src="../Assets/microbit-7.png" width="20%" height="20%" />
 </p>
 
 Did you notice from the last activity we used the **forever** block to make our code repeat, this time we made a loop in the **on start** block todo the same thing. We have more control with creating loops as we can only create certain code to loop and the rest of the code can only run once.
