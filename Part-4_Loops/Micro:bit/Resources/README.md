@@ -134,12 +134,12 @@ We learnt we can control **repeat** loops but putting in the maximum number of r
 
 - [ ] In the block menu click the **input menu**, drag the **button A is pressed** and place it in the **if else** block condition.
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-21.png" width="25%" height="25%" />
+    <img style="text-align:center" src="../Assets/microbit-21.png" width="35%" height="35%" />
 </p>
 
 - [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it outside the **while** block and draw out a stick person standing up. Hold the **A button**, what do you notice?
 <p align="center">
-    <img style="text-align:center" src="../Assets/microbit-22.png" width="25%" height="25%" />
+    <img style="text-align:center" src="../Assets/microbit-22.png" width="35%" height="35%" />
 </p>
 
 You are right, the code stops. Can you see what has happened? When the **A button** is pressed it changes the variables to 1, which means the while loop no longer is true as 1 does not equal 0. We have learnt how to create a condition in a while loop, you have tried your first complex code.
