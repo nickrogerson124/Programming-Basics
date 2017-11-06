@@ -59,16 +59,31 @@ Did you notice from the last activity we used the **forever** block to make our 
 We have learnt in creating a simple loop block using the **repeat** block. Lets try expanding on what we learn with the while loop and add get an understanding of a boolean:
 
 - [ ] Lets start afresh and delete all the code within the **on start** block. In the block menu click the **loop menu**, drag the **while** block and place it within the **on start** block.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-8.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it within the **while** block and draw out a stick person standing up.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-9.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **basic menu**, drag another the **show leds** block and place it within the **while** block and draw out a stick person jumping. What do you notice?
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-10.png" width="20%" height="20%" />
+</p>
 
 If you said the stick person does not stop jumping you are right, a **while** loop is a loop that only runs (executes) when its true otherwise it will not run if its false. 
 
 - [ ] In the **while** loop set the condition drop down from true to false. Did you notice it stop? It no longer runs the loop.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-11.png" width="20%" height="20%" />
+</p>
 
 - [ ] Lets return the **while** loop condition back to true. What did we notice?
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-12.png" width="20%" height="20%" />
+</p>
 
 If you said the stick person does not stop jumping, you are right - how would we fix this? We need to control the while loop to stop.
 
