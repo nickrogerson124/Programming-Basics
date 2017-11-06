@@ -26,18 +26,11 @@ Questions to ask at the end of the session as a collective group of pupils or in
     * A sequence of instruction s that is continually repeated until a certain condition is reached
     * Allows you to repeat code until a condition or rule is met,
 * What is a for loop?
-    * A f
+    * A control flow statement for specifying iteration, which allows code to be executed repeatedly
+    * A loop that repeats code for a set number specified
 * What is a while loop?
-    * A control flow statement that allows code to be executed repeatedly  based on 
-
-
-## Plenary
-Questions to ask at the end of the session as a collective group of pupils or as individuals:
-* What does a forever block do?
-    * It makes sure the code runs forever and not just once.
-* What is a Condition Statement
-    * A conditional statement is an if statement
-    * A conditional statement provides you with a choice to go down one path or the other
-    * A conditional statement can have multiple conditions for multiple function outputs 
-* What is a Condition?
-    * A condition is a criteria/rule that the code must meet for the function to be carried out.
+    * A control flow statement that allows code to be executed repeatedly based on a given boolean (true or false) condition
+    * A loop that repeats if the condition (boolean value) is true otherwise stops if its false
+* What is a boolean?
+    * A binary variable that can have one of two possible values, 0 (false) or 1 (true)
+    * A true or false variable
