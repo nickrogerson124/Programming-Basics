@@ -90,7 +90,7 @@ If you said the stick person does not stop jumping, you are right - how would we
 ## Part 3: Controlling While Loops
 We learnt we can control **repeat** loops but putting in the maximum number of repeats we want, how do we do that with a while loop?
 
-- [ ] Lets start afresh and delete all the code within the **on start** block. In the block menu click the **variable menu**, drag the **set itemt to 0** block and place it within the **on start** block.
+- [ ] Lets start afresh and delete all the code within the **on start** block. In the block menu click the **variable menu**, drag the **set item to 0** block and place it within the **on start** block.
 
 - [ ] Change the name of the **variable** block and call it index.
 
