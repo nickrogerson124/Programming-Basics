@@ -18,7 +18,7 @@ Depending on the class size, we usually recommend to break the class in to group
 
 
 ## Main Activity
-The main project activity for the pupil to learn, code and understand the hands-on basics of programming [conditional statements](../).
+The main project activity for the pupil to learn, code and understand the hands-on basics of programming [conditional statements](../). We usually recommend to break up the pupils into groups of 2 to 3 to aid in collaboration and knowledge sharing between pupils however these lesson plans can also be completed on their own.
 
 ## Plenary
 Questions to ask at the end of the session as a collective group of pupils or as individuals:
