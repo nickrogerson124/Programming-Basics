@@ -28,7 +28,7 @@ Questions to ask at the end of the session as a collective group of pupils or in
 * What is a for loop?
     * A f
 * What is a while loop?
-    *
+    * A control flow statement that allows code to be executed repeatedly  based on 
 
 
 ## Plenary
