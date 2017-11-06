@@ -91,24 +91,56 @@ If you said the stick person does not stop jumping, you are right - how would we
 We learnt we can control **repeat** loops but putting in the maximum number of repeats we want, how do we do that with a while loop?
 
 - [ ] Lets start afresh and delete all the code within the **on start** block. In the block menu click the **variable menu**, drag the **set item to 0** block and place it within the **on start** block.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-13.png" width="20%" height="20%" />
+</p>
 
 - [ ] Change the name of the **variable** block and call it index.
 
 - [ ] In the block menu click the **loop menu**, drag the **while** block and place it within the **on start** block.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-14.png" width="20%" height="20%" />
+</p>
 
 - [ ] Lets add a condition, in the block menu click the **logic menu**, drag the **0 = 0** block and place it within the **while** block.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-15.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **variables menu**, drag the **index** variable block and add it in the **while** loop block condition. 
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-16.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it within the **while** block and draw out a stick person standing up.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-17.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **basic menu**, drag another the **show leds** block and place it within the **while** block and draw out a stick person jumping. What did you notice?
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-18.png" width="20%" height="20%" />
+</p>
 
 - [ ] Lets add an **if esle** block in the **logic menu**, drag the **if else** block and add it in the **while** loop.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-19.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **variables menu**, drag the **set index** variable block and add it in the **if** block condition. Change the variable number to 1. 
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-20.png" width="20%" height="20%" />
+</p>
+
+- [ ] In the block menu click the **input menu**, drag the **button A is pressed** and place it in the **if else** block condition.
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-21.png" width="20%" height="20%" />
+</p>
 
 - [ ] In the block menu click the **basic menu**, drag the **show leds** block and place it outside the **while** block and draw out a stick person standing up. Hold the **A button**, what do you notice?
+<p align="center">
+    <img style="text-align:center" src="../Assets/microbit-22.png" width="20%" height="20%" />
+</p>
 
 You are right, the code stops. Can you see what has happened? When the **A button** is pressed it changes the variables to 1, which means the while loop no longer is true as 1 does not equal 0. We have learnt how to create a condition in a while loop, you have tried your first complex code.
 
