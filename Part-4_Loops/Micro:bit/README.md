@@ -7,6 +7,7 @@ This lesson is to demonstrate a fundamental programming concept of loops using t
 The aim of the lesson activity are:
 - To learn the definition of a loop
 - To learn the difference between a for and while loop
+- To learn and understand true and false (Boolean) statements when using while loops
 - To learn and understand how to use a for and while loop using the online micro:bit editor
 - To learn how to use a for loop different inputs to produce different ouputs
 - To learn how to use a while loop different conditions as your input to produce different ouputs 
