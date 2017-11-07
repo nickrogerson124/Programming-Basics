@@ -147,3 +147,19 @@ You are right, the code stops. Can you see what has happened? When the **A butto
 
 ## The Challenge
 Try out this challenge exercise with less help, by creating a bouncing ball when:
+* When no inputs are pressed the ball is still on the ground,
+* You press the A Button input to make the ball bounce on the led screen forever,
+* You press the B Button input to make the ball rollside to side on the led screen forever,
+
+- [ ] Start a new empty project under the projects button.
+- [ ] Use a **on button A pressed** block to start your code with a **while** loop.
+- [ ] Use a **on button B pressed** block to start your code with a **while** loop.
+- [ ] Use a **on button A+B pressed** block to start your code with a **repeat** loop.
+<p align="center">
+    <img src="../Assets/microbit-led-ball.png" width="35%" height="35%" />
+</p>
+
+Time to test your code:
+- [ ] When I press the A Button input block, does the ball bounce up and down forever?
+- [ ] When I press the B Button input block, does the ball roll side to side forever?
+- [ ] When I press the A+B Button input block, does the ball hit all four sides of the micro:bit led square twice?
