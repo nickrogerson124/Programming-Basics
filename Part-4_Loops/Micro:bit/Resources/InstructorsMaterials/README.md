@@ -21,7 +21,7 @@ The main project activity for the pupil to learn, code and understand the hands-
 Questions to ask at the end of the session as a collective group of pupils or individuals:
 * What is a loop?
     * A sequence of instructions that is continually repeated until a certain condition is reached
-    * Allows you to repeat code until a condition or rule is met,
+    * Allows you to repeat code until a condition or rule is met
 * What is a repeat loop?
     * A control flow statement for specifying iteration, which allows code to be executed repeatedly
     * A loop that repeats code for a set number specified

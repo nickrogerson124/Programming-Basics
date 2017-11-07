@@ -11,7 +11,6 @@ The aim of the lesson activity are:
 - To learn and understand how to use a repeat and while loop using the online micro:bit editor
 - To learn how to use a repeat loop different inputs to produce different ouputs
 - To learn how to use a while loop different conditions as your input to produce different ouputs 
-- To understand how a repeat and while loops work when extending to create a loop within a loop
 
 ## Required Parts
 A list of parts/materials that are required with additional optional recommendations for this lesson activity:
