@@ -11,3 +11,7 @@ Lets begin the activity by trying out some simple items in a list like we did in
 <p align="center">
     <img style="text-align:center" src="../Part-5_Lists/microbit-mainpage.png" />
 </p>
+- [ ] In the block menu click the **Arrays menu**, drag the **list set value at** block and place it within the **on start** block.
+<p align="center">
+    <img style="text-align:center" src="../Part-5_List/list_start.png" width="20%" height="20%" />
+</p>
