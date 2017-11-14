@@ -9,7 +9,7 @@ Lets begin the activity by trying out some simple items in a list like we did in
 - [ ] Open up a browser and go to **[https://makecode.microbit.org](https://makecode.microbit.org)**.
 - [ ] Start a new empty project by clicking on the **projects menu** and select the **New Project** menu button in the pop-up screen, this only needs to be done if there is still old code on the sandbox from your previous work.
 <p align="center">
-    <img style="text-align:center" src="../Asssets/microbit-mainpage.png" />
+    <img style="text-align:center" src="../Assets/microbit-mainpage.png" />
 </p>
 - [ ] In the block menu click the **Arrays menu**, drag the **list set value at** block and place it within the **on start** block.
 <p align="center">
