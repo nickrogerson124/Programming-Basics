@@ -196,7 +196,7 @@ Instead of testing if **0 = 0** we want to test if **value = lucky**. That is, w
 </p>
 
 <p align="center">
-    <img style="text-align:center" src="../Assets/list_conditional_findindex_inplace.png" width="20%" height="20%" />
+    <img style="text-align:center" src="../Assets/list_conditional_findindex_inplace.png" />
 </p>
 
 So in this code, we are looping around the list looking for items that are equal to the lucky number. 
